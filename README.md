@@ -87,4 +87,4 @@ Pour la liste complète, consultez le fichier [requirements.txt](requirements.tx
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENCE) pour plus de détails.
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
